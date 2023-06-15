@@ -1,0 +1,7 @@
+C:\Users\USER\source\repos\PhoneBook23\PhoneBook23\bin\Debug\PhoneBook23.exe.config
+C:\Users\USER\source\repos\PhoneBook23\PhoneBook23\bin\Debug\PhoneBook23.exe
+C:\Users\USER\source\repos\PhoneBook23\PhoneBook23\bin\Debug\PhoneBook23.pdb
+C:\Users\USER\source\repos\PhoneBook23\PhoneBook23\obj\Debug\PhoneBook23.csproj.AssemblyReference.cache
+C:\Users\USER\source\repos\PhoneBook23\PhoneBook23\obj\Debug\PhoneBook23.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\repos\PhoneBook23\PhoneBook23\obj\Debug\PhoneBook23.exe
+C:\Users\USER\source\repos\PhoneBook23\PhoneBook23\obj\Debug\PhoneBook23.pdb
